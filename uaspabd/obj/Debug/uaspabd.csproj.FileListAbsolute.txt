@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\uaspabd\uaspabd\bin\Debug\uaspabd.exe.config
+C:\Users\user\source\repos\uaspabd\uaspabd\bin\Debug\uaspabd.exe
+C:\Users\user\source\repos\uaspabd\uaspabd\bin\Debug\uaspabd.pdb
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.Form1.resources
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.Form2.resources
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.Form3.resources
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.Form4.resources
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.Form5.resources
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.Properties.Resources.resources
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.csproj.GenerateResource.cache
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.exe
+C:\Users\user\source\repos\uaspabd\uaspabd\obj\Debug\uaspabd.pdb
